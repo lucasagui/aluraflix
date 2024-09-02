@@ -1,6 +1,7 @@
 body {
     color:white;
     background:black;
+    font-family: "Zilla Slab", sans-serif;
 }
 
 header {
@@ -9,6 +10,15 @@ header {
     font-size: 32px;
     color: (white);
 }
+
 section{
     background: rgb(144, 11, 11);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
 }
